@@ -2,9 +2,10 @@
   "name": "ubelix-sshtools",
   "version": "0.1.0",
   "author": "Rolli, Michael (ID) <michael.rolli@id.unibe.ch>",
-  "summary": "",
+  "summary": "Provides a define to deploy SSH server keys",
   "license": "Apache-2.0",
-  "source": "",
+  "source": "https://github.com/hpc-unibe-ch/puppet-module-sshtools",
+  "issues_url": "https://github.com/hpc-unibe-ch/puppet-module-sshtools/issues",
   "dependencies": [
 
   ],
